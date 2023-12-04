@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @js7ffx0
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h3 align="center">
+  <pre>HELLO, MY NAME IS JOSILANDIO!</pre>
+</h3>
 
 <!---
-js7ffx0/js7ffx0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+  "The quieter you become, the more you are able to hear."
 --->
